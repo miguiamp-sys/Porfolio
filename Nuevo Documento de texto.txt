@@ -1,0 +1,1 @@
+Fondo pantalla background-color 100%
