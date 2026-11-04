@@ -1,0 +1,17 @@
+/*GENERAL*/
+body {
+    background-color: #F0CD9C;
+
+}
+
+/*CABECERA*/
+#cabecera h1 {
+    text-align: center;
+}
+
+/*BODY*/
+#principal img{
+height: 250px;
+width: 150px;
+margin: 90px;
+}
