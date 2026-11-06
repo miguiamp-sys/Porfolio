@@ -13,6 +13,11 @@ height: 20%;
 width: 20%;
 margin: 2%;
 }
+#iconos img{
+height: 5%;
+width: 5%;
+margin-right: 2%;
+}
 /*FOOTER*/
 #footerportada div{
     text-align: center;
