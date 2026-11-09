@@ -1,6 +1,13 @@
+/*FUENTE*/
+@font-face {
+    font-family: "Doublepica";
+    src: url("../fuentes/FeDPsc2.ttf");
+    
+}
 /*GENERAL*/
 body {
     background-color: #F0CD9C;
+    font-family: "Doublepica";
 }
 
 /*CABECERA*/
