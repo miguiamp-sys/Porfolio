@@ -14,6 +14,12 @@ body {
 .cabecera h1 {
     text-align: center;
 }
+.enredadera img{
+height: 20%;
+width: 20%;
+margin-left: 80%;
+rotate: 360deg;
+}
 /*BODY*/
 #principal img{
 height: 20%;
